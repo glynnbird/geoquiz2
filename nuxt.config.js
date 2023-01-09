@@ -76,6 +76,6 @@ export default {
   },
 
   router: {
-    base: '/chaise'
+    base: '/geoquiz2'
   }
 }
